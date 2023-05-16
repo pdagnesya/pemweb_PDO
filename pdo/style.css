@@ -1,0 +1,16 @@
+th{
+    background-color: rgb(146, 171, 171);
+}
+.nav-link{
+    padding: 10px;
+    margin: 0;
+    background-color: rgb(232, 238, 238); 
+}
+.nav-item{
+    border: 2;
+}
+tr{
+    border-color: rgb(117, 152, 170);
+    border: 5px;
+    background-color: rgb(232, 238, 238);
+}
